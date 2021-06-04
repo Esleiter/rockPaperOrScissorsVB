@@ -1,0 +1,8 @@
+C:\Users\Esleiter\Desktop\rockPaperOrScissors\rockPaperOrScissors\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Esleiter\Desktop\rockPaperOrScissors\rockPaperOrScissors\obj\Debug\rockPaperOrScissors.vbproj.GenerateResource.Cache
+C:\Users\Esleiter\Desktop\rockPaperOrScissors\rockPaperOrScissors\bin\Debug\rockPaperOrScissors.exe
+C:\Users\Esleiter\Desktop\rockPaperOrScissors\rockPaperOrScissors\bin\Debug\rockPaperOrScissors.pdb
+C:\Users\Esleiter\Desktop\rockPaperOrScissors\rockPaperOrScissors\bin\Debug\rockPaperOrScissors.xml
+C:\Users\Esleiter\Desktop\rockPaperOrScissors\rockPaperOrScissors\obj\Debug\rockPaperOrScissors.exe
+C:\Users\Esleiter\Desktop\rockPaperOrScissors\rockPaperOrScissors\obj\Debug\rockPaperOrScissors.xml
+C:\Users\Esleiter\Desktop\rockPaperOrScissors\rockPaperOrScissors\obj\Debug\rockPaperOrScissors.pdb
